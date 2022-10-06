@@ -14,6 +14,9 @@ I tried pressing the strong button and, no surprise here, there was still dead s
 
 I think that this whole experience wasn’t necessarily complicated for someone who is familiar with a coffee maker, even if it not the same model. I can see that the machine is fairly simple with few functions that are easy to remember, as soon as I managed the first time, it was easy to use. This means, in usability terms, that the device is **learnable** and **memorable**, even if it was not **intuitive** for me. 
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Update**
 
 After I finished writing this, as I was looking up pictures of that particular coffee maker on the internet, I stumbled across the instruction manual. I started reading it out of curiosity and I found out that the power button allows you to brew coffee immediately, which makes the assumption I made before wrong. 
 When I arrived home I decided to test it out and that is actually the case, the machine just takes a little bit more to start working. This doesn’t explain why the display says 12.00 for no apparent reason. To me, this remains a mistery.
