@@ -10,4 +10,4 @@ I am taking this class because I believe that learing about Usability Engineerin
 
 ## UX Journal
 
-[Read about my experience with Bash](j01/)
+[Coffee machines in America as told by an Italian](j01/)
