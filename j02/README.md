@@ -2,7 +2,7 @@
 
 For my second UX journal I decided to write about a platform that we have to use for this class specifically. I am talking about GitHub. 
 
-Before this class I had only heard about it, all my classmates back home consistently used it both for sharing code and take notes in class. Occasionally I had looked through their accounts to find the notes for a specific class that maybe I hadn’t taken that well in class, but I had never written something myself. 
+Before this class I had only heard about it, all my classmates back home consistently used it both for sharing code and taking notes in class. Occasionally I had to open a GitHub link for a reason or another, but I never had my own account, let alone post anything. 
 I think everyone can agree that the platform is a bit confusing, and the first time I used it I had to ask for help. I don’t know if I would have been able to do it by myself.
 
 To understand how confusing it is for me to use GitHub let’s walk through the writing process of this journal entry itself. 
@@ -17,9 +17,9 @@ Since I know by previous experience that by searching GitHub on google I am redi
 
 ![Screenshot (101)](https://user-images.githubusercontent.com/112104599/206928062-8b5b160b-11f8-4a71-9b33-8454aa96413b.png)
 
-Now, how do I upload another entry? I remember doing this before for the ReaderHub project, but I absolutely do not remember how to do it. Does this mean that the website is not learnable enough or that I am just dumber than the rest of the people who use it? Since I do like to think about myself as an average person in the intelligence department, but I also don’t want to blame a platform that everyone seems to like so much, let’s just blame the fact that I only use GitHub in this class and move on with our lives.
+Now, how do I upload another entry? I recall doing this before for the ReaderHub project, but I absolutely do not remember how to do it. Does this mean that the website is not learnable enough or that I am just dumber than the rest of the people who use it? Since I do like to think about myself as an average person in the intelligence department, but I also don’t want to blame a platform that everyone seems to like so much, let’s just blame the fact that I only use GitHub in this class and move on with our lives.
 
-I tried to click on the icon of the pencil that allows me to modify the main text under the title UX portfolio and I tried to imitate the thing I had done for the previous journal entry, which would look something like this [title of this entry] (j02/). This didn’t work since the outcome after I clicked on “commit changes” was this:
+I tried to click on the pencil icon that allows me to modify the main text under the title UX portfolio and I tried to imitate the thing I had done for the previous journal entry, which would look something like this [title of this entry] (j02/). This didn’t work since the outcome after I clicked on “commit changes” was this:
 
 ![Screenshot (118)](https://user-images.githubusercontent.com/112104599/206928075-54b951b2-bf67-4bc8-905e-623e79a530ff.png)
 
