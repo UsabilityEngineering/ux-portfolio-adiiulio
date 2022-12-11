@@ -11,4 +11,5 @@ I am taking this class because I believe that learing about Usability Engineerin
 ## UX Journal
 
 [Coffee machines in America as told by an Italian](j01/)
+
 [A struggle with GitHub](j02/)
